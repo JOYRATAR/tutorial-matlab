@@ -63,12 +63,19 @@ clc
 % disp(n);
 
 % continue
-n = 0;
-for i = 1:3
-    if i == 2
-        continue 
-    else
-    n = n + i;
-    end
-end
-disp(n);
+% n = 0;
+% for i = 1:3
+%     if i == 2
+%         continue 
+%     else
+%     n = n + i;
+%     end
+% end
+% disp(n);
+
+%while
+% n = 0;
+% while n < 10
+%     disp('baleni');
+%     n =  n+1;
+% end
